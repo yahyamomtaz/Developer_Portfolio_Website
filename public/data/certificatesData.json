@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Apple Developer Academy",
+        "details": "Apple Developer Academy is a 9-month program that teaches students how to develop iOS apps using Swift.",
+        "image": "/images/appleacademy.jpeg",
+        "logo1": "/images/apple-logo.png",
+        "logoName": "Apple and Unina Federico II"
+    },
+    {
+        "title": "Build iOS Apps with SwiftUI",
+        "details": "Successfully completed all course material in the Build iOS Apps with SwiftUI Skill Path",
+        "image": "/images/swiftcert.png",
+        "logo1": "/images/ca.png",
+        "logoName": "Codecademy"
+    },
+    {
+        "title": "SQL for Data Science",
+        "details": "This course is designed to give you a primer in the SQL and working with data.",
+        "image": "/images/courserasql.png",
+        "logo1": "/images/coursera-logo.png",
+        "logoName": "Coursera"
+    },
+    {
+        "title": " AWS Cloud Technical Essentials",
+        "details": "Throughout the course, students have built highly available, scalable, and cost effective application step-by-step.",
+        "image": "/images/courseraaws.png",
+        "logo1": "/images/coursera-logo.png",
+        "logoName": "Coursera"
+    }
+]

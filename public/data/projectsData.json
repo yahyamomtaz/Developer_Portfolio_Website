@@ -1,0 +1,27 @@
+[
+    {
+        "title": "AI Image",
+        "details": "AI Image is a web application that uses the Clarifai API to detect faces in images. It was built using React, Node.js, Express, and PostgreSQL.",
+        "image": "/images/aiimage.png",
+        "link": "https://aiimagelive.web.app/"
+    },
+    {
+        "title": "Scape InOut",
+        "details": "Fully accessible audio escape room game. I participated in this project during my journey in thr Apple Developer Academy.",
+        "image": "/images/scapeinout.png",
+        "link": "https://apps.apple.com/it/app/scape-inout/id6449718680"
+    },
+    {
+        "title": "AI Chatbot",
+        "details": "PandasAI Prompt Analyzer is analyzing your dataset with your prompts, its made on the streamlit.",
+        "image": "/images/promptanalyzer.png",
+        "link": "https://pandasai-dataset-analysis.streamlit.app/"
+    },
+    {
+        "title": "MAGIC",
+        "details": "Magic project is about digitalizing the ancient books and manuscripts. I am responsible for developing the website and increase the readability of the books with AI models.",
+        "image": "/images/magic.png",
+        "link": "https://www.magic.unina.it"
+
+    }
+]

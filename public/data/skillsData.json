@@ -1,0 +1,28 @@
+[
+    {
+      "title": "AI & Deep Learning",
+      "skills": ["Deep Learning Models (CNNs & RNNs)", "TensorFlow", "PyTorch", "Scikit-Learn", "LLMs"],
+      "icon": ""
+    },
+    {
+      "title": "Web Development",
+      "skills": ["HTML", "CSS","Tailwind CSS", "JavaScript", "React", "Flask"],
+      "icon": ""
+    },
+    {
+      "title": "Data Analysis & Visualization",
+      "skills": ["Machine Learning Algorithms", "SQL", "Tableau"],
+      "icon": ""
+    },
+    {
+      "title": "Cloud & DevOps",
+      "skills": ["Amazon Web Service (AWS)", "Google Cloud Platform (GCP)", "Docker"],
+      "icon": ""
+    },
+    {
+      "title": "Soft Skills",
+      "skills": ["Problem-Solving", "Lifelong Learning", "Creativity", "Teamwork"],
+      "icon": ""
+    }
+]
+  
